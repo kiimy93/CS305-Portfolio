@@ -1,2 +1,8 @@
-# CS305-Portfolio
-Portfolio for CS305 Secure Software Projects
+Artemis Financial Vulnerability Assessment Reflection
+Artemis Financial is a financial services company that develops personalized financial plans, including savings, retirement, investments, and insurance. They manage sensitive client financial data and needed a secure software application to protect that information from cyber threats.
+I effectively identified critical vulnerabilities both manually and through static testing. Coding securely is vital to prevent data breaches, financial loss, and reputational harm. Secure software protects client data, builds trust, and strengthens a company’s long term success.
+Conducting the manual code review was challenging because it required deep focus on input validation and hidden security risks, but it improved my understanding of real world software vulnerabilities.
+I recommended updating all vulnerable libraries, implementing strict input validation, and applying secure coding patterns. In the future, I would continue to use OWASP Dependency-Check, threat modeling, and security scanning tools to assess and mitigate risks.
+After identifying vulnerabilities, I re ran static scans and rechecked functionality to ensure the system was secure and operational. I verified that critical features worked and no new vulnerabilities were introduced.
+I used OWASP Dependency-Check, secure coding best practices, cryptographic recommendations, and thorough manual code review techniques.
+This assignment shows my ability to perform vulnerability assessments, identify risks, recommend security improvements, and document results in a clear, professional manner key skills for roles in software development and cybersecurity. 
